@@ -18,3 +18,4 @@ Challenges we overcame:
 
 ![Enclosure design](https://user-images.githubusercontent.com/81354047/202077059-b5b3f162-5635-43b1-9200-466b231e7144.jpg)
 
+![schematic](https://user-images.githubusercontent.com/81354047/202077220-a6f35571-3d22-4f84-9aed-ad7fa25ef42f.jpg)
