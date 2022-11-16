@@ -15,5 +15,6 @@ Challenges we overcame:
 2. Completing the prototype using an Arduino Uno board and limited number of components available in the Sri Lankan market during the pandemic 
 3. Beginners at programming on AVR and Arduino platforms
 4. Beginners at audio processing techniques
+
 ![Enclosure design](https://user-images.githubusercontent.com/81354047/202077059-b5b3f162-5635-43b1-9200-466b231e7144.jpg)
-![schematic](https://user-images.githubusercontent.com/81354047/202077069-9c33a761-6ada-4ce8-b84b-da58e2d9fb0d.jpg)
+
